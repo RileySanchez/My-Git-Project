@@ -1,1 +1,1 @@
-'Hi Git'
+print('Hi Git')
